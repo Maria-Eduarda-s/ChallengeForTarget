@@ -36,9 +36,10 @@ f) 2, 10, 12, 16, 17, 18, 19, 200 R: A escrita dos números começam com a letra
  ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo
  é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma
  das salas das lâmpadas, qual interruptor controla cada lâmpada?
- R: Ligaria uma lâmpada e deixaria um tempo, a ponto de aquece-la, desligaria e ligaria outro interruptor. Ao ir
- verificar, conseguiria descobrir a qual pertencia a quente(primeira ligada) a fria(a que nao foi ligada) e a acesa, que
- está ligada.
+ R: Eu ligaria um interruptor e o deixaria ligado por alguns minutos para aquecer a lâmpada. Depois, desligaria esse 
+ interruptor e ligaria o segundo. Quando eu verificasse as lâmpadas, a que estivesse acesa seria controlada pelo 
+ segundo interruptor. A lâmpada que estivesse quente, mas apagada, seria controlada pelo primeiro interruptor.
+ E a lâmpada fria e apagada seria controlada pelo terceiro interruptor.
  */
 
 public class ChallengeTarget {
